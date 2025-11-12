@@ -1,16 +1,7 @@
-# mis_labs_1
+# MIS Laboratory Exercise 1
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Exam Viewing app
+![Screenshot_20251112_212037](https://github.com/user-attachments/assets/7f273ed3-d83c-43c2-ba65-f99fd067b389)
+![Screenshot_20251112_212033](https://github.com/user-attachments/assets/42991925-5fa0-4637-a5d5-1461fc417c84)
+![Screenshot_20251112_212030](https://github.com/user-attachments/assets/6b87450a-090a-4ecb-875d-6783ceca81a1)
+![Screenshot_20251112_212028](https://github.com/user-attachments/assets/7db2e31a-e12f-4de3-8f38-608a18859460)
